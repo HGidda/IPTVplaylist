@@ -1,0 +1,36 @@
+       
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="Infantil",Baby TV
+ 
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
+ 
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/Ui4wuoz.png" group-title="Kids",Cartoon Network 
+XmoUNb2=|Cb#rufXKyZab}wULa&&KRZY^$Qba!uZYcC*hVRCb2RdQ@SF*N
+ 
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/Ui4wuoz.png" group-title="Kids",Cartoon Network (2)
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfI=7a&&KRZZ9BkVRCb2RdQ@SF#
+ 
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/9BKMDjk.png" group-title="Kids",Nickelodeon 
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfJMQV{2t>Z)9a}ZZ9BkVRCb2RdQ@SF#
+ 
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/9BKMDjk.png" group-title="Kids",Nickelodeon (2)
+XmoUNb2=|Cb#rufXKyZab}w#eV{2t>Z)9a}ZY^wSc4aMdbaG{3ZE0?2EoO3MWiKFbVRCb2RdQ@SF*N
+ 
+#EXTINF:-1,US:Disney Channel HD
+http://mvu03.wanicelife.com:8880/SWFAF123715/7HQTAQ7B/3142
+ 
+#EXTINF:-1,US:Disney JR HD
+http://mvu03.wanicelife.com:8880/SWFAF123715/7HQTAQ7B/3141
+ 
+#EXTINF:-1,US:Disney XD HD
+http://mvu03.wanicelife.com:8880/SWFAF123715/7HQTAQ7B/3140
+ 
+#EXTINF:-1 type-id="#004" iso-id="US" tvg-logo="https://i.imgur.com/R6aTGy6.png" group-title="Sports",BASKET TV
+XmoUNIxjCVGBb2`Zf|!kV{dIQcVTp6XfJMJVJ&oaFCcJXa&u)>a%?>@
+ 
+#EXTINF:-1 type-id="#004" iso-id="US" tvg-logo="https://i.imgur.com/R6aTGy6.png" group-title="Sports",BASKET TV (2)
+XmoUNb2=|CcXxL#b98cPYh`bBbS`dnFK%LCEp&D*b98cLVQnojAaG%Fb7fU>Y&|g
+ 
+#EXTINF:-1 type-id="#004" iso-id="US" tvg-logo="https://i.imgur.com/R6aTGy6.png" group-title="Sports",BASKET TV (3)
+XmoUNb2=|CcXxL#c4=^OZ+9+jWiM`GVJ&oaEpKjYX>MgLb98cLVQnojAaG%Fb7fU>Y&|g#EXTINF:-1 iso-id="US" type-id="#004"
